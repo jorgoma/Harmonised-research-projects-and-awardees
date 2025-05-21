@@ -10,7 +10,7 @@ This repository contains code for processing and harmonising research grant data
 
 ## Note on Code Quality
 
-This is research code developed for data processing transparency. The primary goal is reproducibility of the datasets, not production-ready software. The code handles real-world data integration challenges across disparate sources with different schemas and data quality issues.
+This is research code developed for data processing transparency. The primary goal is reproducibility of the datasets. The code handles real-world data integration challenges across disparate sources with different schemas and data quality issues. If you find any issues or have any advice on methodological decisions taken, please get in touch at [jorge@magentimethodologies.com](jorge@magentimethodologies.com)
 
 ## Datasets Produced
 
